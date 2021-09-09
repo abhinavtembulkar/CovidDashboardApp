@@ -1,4 +1,4 @@
-# FlightPricePredictionApp
+# CovidDashboardApp
 
 Covid Dashboard App displaying covid 19 statistics from all around the world
 
